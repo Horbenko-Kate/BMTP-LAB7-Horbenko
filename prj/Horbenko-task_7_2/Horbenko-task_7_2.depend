@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708546544 source:d:\Перший курс\secondhalf\bmtp\bmtp-lab7-horbenko\prj\horbenko-task_7_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
